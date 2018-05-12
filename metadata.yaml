@@ -1,0 +1,27 @@
+_repo: Narrative-of-the-Life-and-Travels-of-Serjeant-B--_45531
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45531-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Butler, Robert
+    birthdate: 1784
+    gutenberg_agent_id: '43337'
+    url: http://www.gutenberg.org/2009/agents/43337
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2014-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Butler, Robert, 1784- -- Travel -- India'
+- !lcsh 'India -- Description and travel'
+title: Narrative of the Life and Travels of Serjeant B——
+url: http://www.gutenberg.org/ebooks/45531
