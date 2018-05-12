@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43337'
     url: http://www.gutenberg.org/2009/agents/43337
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45531#Narrative-of-the-Life-and-Travels-of-Serjeant-B--
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2014-04-29'
 gutenberg_type: Text
